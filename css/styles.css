@@ -65,8 +65,8 @@ h5 {
 
 .btn-fill:hover, .btn-fill:focus {
   color: #fff;
-  background-color: #D7405D;
-  border-color: #D7405D; }
+  background-color: #0073ff;
+  border-color: #0073ff; }
 
 .btn-small {
   padding: 8px 40px; }
@@ -107,7 +107,7 @@ a {
   transition-property: color, border-color, background-color; }
 
 a:hover, a:focus {
-  color: #D7405D;
+  color: #0073ff;
   text-decoration: none; }
 
 body {
